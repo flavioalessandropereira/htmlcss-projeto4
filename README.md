@@ -1,4 +1,4 @@
-# Aprendizagem do HTMl e CSS
+# Aprendizagem do HTML e CSS
 
 > Status: Projeto Em contstrução ⚠️
 
