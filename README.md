@@ -22,6 +22,13 @@ Digitando o comando abaixo, dentro do &lt;head&gt; do arquivo index.html,  você
 
 &lt;link rel="shortcut icon" href="caminho do íocne" type="image/x-icon"&gt;
 
+- usou o comando link:favicon
+
+![IMAGE ALT TEXT HERE](/assets/img/favicon.png)
+
+![IMAGE ALT TEXT HERE](/assets/img/logopagina.PNG)
+
+
 ### Sites para criar ícones:
 - https://favicon.io/ 
 - https://www.favicon.cc/
