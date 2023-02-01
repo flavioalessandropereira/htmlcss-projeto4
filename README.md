@@ -7,9 +7,8 @@
 - &lt;mark&gt; => marcador de texto
 - &lt;em&gt; => itálico
 - &lt;strong&gt; => negrito
-- &lt;smal&gt; => deixa as letra pequenas
 - &lt;del&gt; => tachado
-- &lt;in&gt; =>  sublinhado
+- &lt;ins&gt; =>  sublinhado
 - &lt;sup&gt; =>  sobrescrito
 - &lt;sub&gt;=> subscrito
 
