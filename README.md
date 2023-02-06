@@ -1,7 +1,5 @@
 # Aprendizagem do HTML e CSS
 
-> Status: Projeto Em contstrução ⚠️
-
 ## HTML (comandos básicos): 
 - &lt;hr&gt; => cria uma linha na horizontal
 - &lt;mark&gt; => marcador de texto
@@ -33,9 +31,15 @@ Digitando o comando abaixo, dentro do &lt;head&gt; do arquivo index.html,  você
 - https://favicon.io/ 
 - https://www.favicon.cc/
 
+### Sites de estudo:
+[![Whatch the video](/assets/img/curso.png)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+
+### Imagens do Projeto
+![IMAGE ALT TEXT HERE](/assets/img/relato.PNG)
 
 ## Tecnologias utilizadas:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : linguagem de Marcação de Hipertexto
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) : linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML.
+
