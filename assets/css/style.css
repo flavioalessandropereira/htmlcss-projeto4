@@ -1,54 +1,63 @@
+*{
+  margin: 0;
+  padding-right: 0;
+  font-family: Arial, Helvetica, sans-serif, Courier, monospace;
+  font-size: 10px;
+}
+
 body{
   font-family: Georgia;
 }
 
 h1{
-  font-size: 40px;
+  font-size: 20px;
   font-weight: bold;
   text-align: center;  
 }
+p, strong, a{
+    font-size: 13px;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.usermain li{
 
-h2{
-  font-size: 20px;
-  font-weight: bolder;
+    margin: 10px 0;
+    font-size: 12px;
+    background-color: rgb(208, 227, 252);
+    text-align: center;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-* {
-    margin: 0 auto;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
-}
+#menu ul {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 0;
+    background-color: rgb(147, 148, 148);
+    list-style: none; 
+    /* remove os pontinhos antes dos itens */
+    }
+#menu ul li {
+    display: inline; 
+    /* alinha os itens na horizontal */
+    }
 
-#menu-h{
-    background-color: rgb(37, 37, 39);
-}
-
-#menu-h ul {
-    max-width: 800px;
-    list-style: none;
-    padding: 0;
-}
-
-#menu-h ul li {
-    display: inline;
-}
-
-#menu-h ul li a {
-    color: #FFF;
-    padding: 20px;
+#menu ul li a {
+    padding: 2px 10px;
     display: inline-block;
-    text-decoration: none;
-    transition: background .4s;
-}
-
-#menu-h ul li a:hover {
-    background-color: rgb(24, 139, 233);
-}
-
-#menu-h ul li:last-child a {
-    float: right;
-    background-color: rgb(24, 139, 233);
-}
+    margin-left: 15px;
+    background-color:  rgb(147, 148, 148);
+    color: #fff;
+    text-decoration: none; 
+    /* remove o sublinhado do link */
+    
+    border-bottom: 1px solid  rgb(147, 148, 148);
+    }
+#menu ul li a:hover { 
+    /* efeito para quando passar o mouse 
+       sobre o item do menu */
+    color: #f5f5f5;
+    border-bottom: 1px solid #f5f5f5;
+    }
+   
