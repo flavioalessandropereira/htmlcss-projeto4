@@ -34,7 +34,7 @@ Digitando o comando abaixo, dentro do &lt;head&gt; do arquivo index.html,  você
 ### Sites de estudo:
 [![Whatch the video](/assets/img/curso.png)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 
-### Imagens do Projeto
+### Imagens do Projeto:
 ![IMAGE ALT TEXT HERE](/assets/img/relato.PNG)
 
 ## Tecnologias utilizadas:
