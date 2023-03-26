@@ -1,4 +1,4 @@
-# Aprendizagem do HTML e CSS
+# Aprendizagem utilizando HTML e CSS
 
 ## HTML (comandos básicos): 
 - &lt;hr&gt; => cria uma linha na horizontal
