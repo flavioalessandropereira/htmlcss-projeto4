@@ -10,7 +10,7 @@
 - &lt;sup&gt; =>  sobrescrito
 - &lt;sub&gt;=> subscrito
 
-## Estilizando a página com CSS:
+## Estilizando página com CSS:
 
 Utilizei o reset do CSS Ade Eric Meyer (https://meyerweb.com/eric/tools/css/reset/), para lidar com as inconsistências dos navegadores. Dica  Jean C. Meira " @Meira".
 
