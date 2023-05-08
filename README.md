@@ -12,7 +12,7 @@
 
 ## Estilizando página com CSS:
 
-Utilizei o reset do CSS Ade Eric Meyer (https://meyerweb.com/eric/tools/css/reset/), para lidar com as inconsistências dos navegadores. Dica  Jean C. Meira " @Meira".
+Utilizei o reset do CSS Ade Eric Meyer (https://meyerweb.com/eric/tools/css/reset/), com o intuito em lidar com as inconsistências dos navegadores. Dica  Jean C. Meira " @Meira".
 
 
 ### Dica:
