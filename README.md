@@ -39,7 +39,7 @@ Digitando o comando abaixo, dentro do &lt;head&gt; do arquivo index.html,  você
 
 ## Tecnologias utilizadas:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : linguagem de Marcação de Hipertexto
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : linguagem de Marcação de Hipertexto.
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) : linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML.
 
