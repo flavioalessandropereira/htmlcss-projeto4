@@ -18,7 +18,7 @@ Utilizei o reset do CSS Ade Eric Meyer (https://meyerweb.com/eric/tools/css/rese
 ### Dica:
 Digitando o comando abaixo, dentro do &lt;head&gt; do arquivo index.html,  você poderá adicionar um ícone personalizado no seu navegador:
 
-&lt;link rel="shortcut icon" href="caminho do íocne" type="image/x-icon"&gt;
+&lt;link rel="shortcut icon" href="caminho do ícone" type="image/x-icone"&gt;
 
 - usou o comando link:favicon
 
